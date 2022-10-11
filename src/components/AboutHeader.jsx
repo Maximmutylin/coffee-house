@@ -26,10 +26,10 @@ export const AboutHeader = () => {
                         </div>
                     </div>
                 </div>
-                <div className="aboutheader__right">
-                    <img src="../../design/about1.png" alt="man" />
-                    <img src="../../design/about2.png" alt="man" />
-                </div>
+
+                <img className='aboutheader__img1' src="../../design/about1.png" alt="man" />
+                <img className='aboutheader__img2' src="../../design/about2.png" alt="man" />
+
 
             </div>
         </div>

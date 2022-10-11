@@ -21,11 +21,10 @@ export const ContactForm = () => {
                     </form>
                 </div>
 
-                <div className="contact__right">
-                    <img src="../../design/Contact Image 1.png" alt="contact" />
-                    <img src="../../design/Contact Image 2.png" alt="contact" />
-                </div>
 
+
+                <img src="../../design/Contact Image 1.png" className='contact__img1' alt="contact" />
+                <img src="../../design/Contact Image 2.png" className='contact__img2' alt="contact" />
 
             </div>
 
